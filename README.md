@@ -1,4 +1,4 @@
-# [Red Tetris](https://tetris-orange.herokuapp.com/#)
+# [Red Tetris](https://tetris-orange.herokuapp.com/#) <- Link to the game
 
 
 ## Our project preview
